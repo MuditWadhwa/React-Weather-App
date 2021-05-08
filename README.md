@@ -1,4 +1,4 @@
-This project is based on a youtube tutorial by Daily Tution channel.It uses ReactJS to build a weather app using the OpenWeather API.
+ A weather app made using ReactJS.It uses the OpenWeather API to fetch data.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
